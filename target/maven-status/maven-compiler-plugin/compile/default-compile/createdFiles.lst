@@ -1,0 +1,5 @@
+com/musicplayer/musicplayer/controller/UserController.class
+com/musicplayer/musicplayer/MusicPlayerApplication.class
+com/musicplayer/musicplayer/model/User.class
+com/musicplayer/musicplayer/service/UserService.class
+com/musicplayer/musicplayer/repository/UserRepo.class
