@@ -7,10 +7,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class AppController {
-    @GetMapping("/")
-    public String viewHomePage() {
-        return "index";
-    }
 
     @GetMapping("/register")
     public String showRegistrationForm(Model model) {
